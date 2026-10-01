@@ -297,8 +297,8 @@ d:/axon/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Extremez-Surya/Astrix-Bot.git
-cd Astrix-Bot
+git clone https://github.com/Extremez-Surya/ASTRIX-ULTIMATE-Discord-Bot-in-Python.git
+cd ASTRIX-ULTIMATE-Discord-Bot-in-Python
 
 # 2. Create and activate a Python virtual environment
 python -m venv venv
